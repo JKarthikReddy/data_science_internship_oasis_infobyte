@@ -5,7 +5,7 @@ This repository contains the solution for Task 1 of the AICTE OIB-SIP March-P2 T
 ### Task Description
 The Iris Classification task aimed to classify iris flowers into three species: Setosa, Versicolor, and Virginica. Participants were provided with a dataset containing measurements of iris flowers' sepal length, sepal width, petal length, and petal width. The goal was to train a machine learning model capable of accurately predicting the species of iris flowers based on these measurements.
 
-![image](https://github.com/CRMawande/iris_flower_classification/assets/163488890/26855bb3-9af6-41ee-8179-340d42b8014b)
+![image](https://github.com/JKarthikRedd/iris_flower_classification/assets/163488890/26855bb3-9af6-41ee-8179-340d42b8014b)
 
 
 ### Approach
